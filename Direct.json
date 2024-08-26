@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "weixinsxy.com",
+        "wxapp.tc.qq.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".weixinsxy.com",
+        ".wxapp.tc.qq.com",
+		".dyndns.com",
+		".douyucdn.cn",
+		".douyucdn2.cn",
+		".speedtest.cn",
+		".speedtest.net",
+		".luenmei.com",
+		".megainfomedia.com",
+		".yangtse.com",
+		".bilibili.com",
+		".jd.com",
+		".taobao.com",
+		".tmall.com",
+		".goofish.com",
+		".people.com.cn",
+		".zhihu.com",
+		".qq.com",
+		".weixin.qq.com",
+		".meituan.com",
+		".ctrip.com",
+		".12306.cn",
+		".v.qq.com",
+		".youku.com",
+		".iqiyi.com",
+		".vcinema.cn",
+		".baidu.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "cherrytv",
+        "cherr"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "129.226.3.47/32",
+        "162.62.163.63/32"
+      ]
+    }
+  ]
+}
